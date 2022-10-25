@@ -3,6 +3,10 @@
 <!--
 **Rudraps07/Rudraps07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![@rudraps07's Holopin board](https://holopin.me/rudraps07)](https://holopin.io/@rudraps07)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
