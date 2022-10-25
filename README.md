@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@rudraps07's Holopin board](https://holopin.me/rudraps07)](https://holopin.io/@rudraps07)
+
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=rebelchris&theme=dracula"
+/>
