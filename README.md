@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=Rudraps07&theme=dracula"
+  src="https://github-readme-stats.vercel.app/api/?username=Ryder-07&theme=dracula"
 />
