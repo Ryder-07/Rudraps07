@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@rudraps07's Holopin board](https://holopin.me/rudraps07)](https://holopin.io/@rudraps07)
-
+[![An image of @rudraps07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudraps07)](https://holopin.io/@rudraps07)
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/?username=Ryder-07&theme=dracula"
